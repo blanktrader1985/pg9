@@ -1,0 +1,19 @@
+{ 
+   "name": "สล๊อต pgslot ทดลองเล่นสล็อต",
+   "theme": "syntax",
+   "version": "0.0.0",
+   "description": "สล็อต tcas65 pg",
+   "keywords": [
+     "pgslot",
+     "สล็อต",
+     "สล็อตเครดิตฟรี",
+     "เกมสล็อต"
+   ],
+   "repository": "https://github.com/blanktrader1985/pg9.git",
+   "license": "MIT",
+   "engines": {
+     "atom": ">=1.0.0 <2.0.0"
+   }
+ }
+          
+        
